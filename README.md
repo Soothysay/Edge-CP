@@ -1,4 +1,4 @@
-# This repo contains the Appendix and code to replicate the experiemnts of Edge-CP for our SDM 2025 paper "Conformal Edge-Weight Prediction in Latent Space"
+# This repo contains the Appendix and code to replicate the experiments of Edge-CP for our SDM 2025 paper "Conformal Edge-Weight Prediction in Latent Space"
 
 ## Instructions
 1. To replicate our results in the HS-PI dataset, create a new conda environment using the environment.yml file
